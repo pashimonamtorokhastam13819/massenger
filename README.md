@@ -5,18 +5,18 @@ Let's start by installing everything you need.
 
 # Installation
 
-First of all, you need to install Python2 & the Python package manager
+### First of all, you need to install Python2 & the Python package manager
 
 ```
 sudo apt-get install python2 python2-pip
 ```
 
-After that you need to install the pyTelegramBotAPI.
+### After that you need to install the pyTelegramBotAPI.
 
 ```
 sudo pip2 install pyTelegramBotAPI
 ```
-Finally clone the repo
+### Finally clone the repo
 
 ```
 git clone https://github.com/appendhc/lsd_support_bot.clone
@@ -30,9 +30,9 @@ Open the file "bot.py" and replace following IDs with your options:
 ```
 API_TOKEN = 'YOUR TOKEN'
 ```
-This should be your Token received from Botfather.
+### This should be your Token received from Botfather.
 
-Also don't forget to replace the Group ID
+### Also don't forget to replace the Group ID
 
 
 
@@ -46,7 +46,7 @@ python bot.py
 # Special thanks to
 [@digitalboys](https://telegram.me/digitalboys) - For open soruce 
 
-Admin : [@behroozyaghi](https://telegram.me/behroozyaghi) 
-channel : [@Nod32team](https://telegram.me/Nod32team) 
+#Admin : [@behroozyaghi](https://telegram.me/behroozyaghi) 
+#channel : [@Nod32team](https://telegram.me/Nod32team) 
 
 
